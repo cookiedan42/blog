@@ -10,4 +10,4 @@
 
 # First entry 2025-07-29
 I wonder how far I can get with just a static github pages site
-[more](/2025-07-29.md)
+[more](/posts/2025-07-29.md)
